@@ -3,6 +3,7 @@ import math
 import random
 from vexcode_viqc import *
 
+
 # Brain should be defined by default
 brain=Brain()
 
